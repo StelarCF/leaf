@@ -1,5 +1,5 @@
 [package]
-name = "leaf"
+name = "leaf-win"
 description = "Machine Learning Framework for Hackers"
 version = "0.2.1"
 authors = [
